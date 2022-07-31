@@ -19,7 +19,12 @@ Dizin sort türüne göre aşamaları;
 		[11,16,21]					[8,12,22]
 				[8,11,12,16,21,22]
         
-        Soru 2
+        
+	
+	
+	
+	
+	Soru 2
         [16,21,11,8,12,22] -> Merge Sort
 
 Big-O gösterimi;
